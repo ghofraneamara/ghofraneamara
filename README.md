@@ -24,8 +24,22 @@ J’adore apprendre, expérimenter et résoudre des problèmes.
 🚀 Exploration : IA, Machine Learning, Cloud
 
 💬 Tu peux me poser toutes tes questions, j’adore aider !
+<div align="center">
 
-📫 Me contacter : ghofraneamara20@gmail.com
+  <!-- Email -->
+  <a href="mailto:ghofraneamara20@gmail.com" style="text-decoration:none; margin-right:15px;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px" style="vertical-align:middle;"/>
+    <span style="vertical-align:middle; margin-left:8px; font-weight:bold; color:#333;">ghofraneamara20@gmail.com</span>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ghofrane-amara-2926b439b/" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" style="vertical-align:middle;"/>
+    <span style="vertical-align:middle; margin-left:8px; font-weight:bold; color:#0A66C2;">LinkedIn</span>
+  </a>
+
+</div>
+
 
 ⚡ Fun fact : Les développeurs full stack ne dorment pas… ils déboguent 😄
 ⭐ Ce que j’aime
