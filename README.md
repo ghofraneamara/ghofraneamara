@@ -32,7 +32,7 @@ Je travaille avec : <strong>Angular, Spring Boot, Node.js, MongoDB, MySQL, JavaS
 
 ---
 
-## 💌 Me contacter
+
 ## 💌 Me contacter
 
 <div align="center" style="margin-top:15px;">
