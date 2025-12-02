@@ -8,7 +8,7 @@
 Ravie de te voir ici !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nada&label=Vues%20du%20profil&color=0e75b6&style=flat" /> </p>
 
-Je suis Nada, une développeuse Full Stack passionnée par la création d'applications web modernes, performantes et élégantes.
+Je suis Ghofrane, une développeuse Full Stack passionnée par la création d'applications web modernes, performantes et élégantes.
 Je travaille avec : Angular, Spring Boot, Node.js, MongoDB, MySQL, JavaScript, TypeScript etc.
 
 J’adore apprendre, expérimenter et résoudre des problèmes.
